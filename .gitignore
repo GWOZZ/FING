@@ -1,1 +1,10 @@
-evamos
+# ignore everything
+*
+# don't ignore directories
+!*/
+# don't ignore file types
+!*.pas
+!*.pdf
+!*.gitignore
+!*.py
+!*.txt
