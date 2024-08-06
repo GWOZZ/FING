@@ -3,6 +3,7 @@
 # don't ignore directories
 !*/
 # don't ignore file types
+!*.cpp
 !*.pas
 !*.pdf
 !*.gitignore
