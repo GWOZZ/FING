@@ -5,7 +5,12 @@
 # don't ignore file types
 !*.cpp
 !*.pas
+!*.py
 !*.pdf
 !*.gitignore
-!*.py
 !*.txt
+!*.h
+!*Makefile
+!*.in
+!*.out
+!*.ignore
